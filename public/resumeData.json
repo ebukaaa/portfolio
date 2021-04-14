@@ -1,0 +1,141 @@
+{
+  "main": {
+    "name": "Ebuka Isiadinso",
+    "occupation": "Founder of DecipherCode",
+    "description": "I love coding both as a hobby and profession",
+    "image": "profilepic.svg",
+    "bio": "Hi there! I am Ebuka! I started coding in 2019. I've worked with startups to help build & scale their companies. Along the journey, I realised my passion existed in leading others towards their dreams as upcoming developers. With this passion, I have now launched an online platform that, though in beta version, would welcome all types of developers, including those with no experience, to improve their coding practices.",
+    "contactmessage": "Get in touch with me to be a part of the DecipherCode!",
+    "email": "ebukaa@protonmail.com",
+    "phone": "+44 7391 561370",
+    "address": {
+      "street": "38 Audley Road",
+      "city": "London",
+      "state": "",
+      "zip": "NW4 3EY"
+    },
+    "website": "https://www-deciphercodee.vercel.app",
+    "resumedownload": "https://drive.google.com/file/d/1YT9tJeFSLfhRTEN596b5M_Lsl26V7lcU/view?usp=sharing",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCGsorpiywAGxuQcsVxWdXVA/",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/ebuka.isiadinso",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ebukaisiadinso",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ebukaaa",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of Sheffield - UK",
+        "degree": "MEng Computer Systems Engineering",
+        "graduated": "June 2019",
+        "description": "Graduated with Second Class Divison One Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "DecipherCode",
+        "title": "Founder",
+        "years": "January 2021 - Present",
+        "description": "Aims to help upcoming developers understand codes. Building DecipherCode as large as possible."
+      },
+      {
+        "company": "Testbird",
+        "title": "QA Analyst",
+        "years": "March 2021 - Present",
+        "description": "In charge of writing bug tests to help clients report any problem concerning their websites, app or web tools before they are released to public."
+      },
+      {
+        "company": "Cashmereapp",
+        "title": "Junior Full Stack Engineer",
+        "years": "March 2020 - March 2021",
+        "description": "Worked with Senior JavaScript Developer to write unit tests using Jest and Enzyme, ensuring that all web UIs are shipped without issues. Created a shop UI using ReactJS and Sass which provided users an interface to browse some of the listed products."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "React Native",
+        "level": "80%"
+      },
+      {
+        "name": "Swift",
+        "level": "50%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "ColorWheel (ReactJS + CapacitorJS)",
+        "category": "Web Progressive App",
+        "image": "colorwheel.png",
+        "url": "https://youtu.be/ujhejhUP47A"
+      },
+      {
+        "title": "CrimeMap (ReactJS + CapacitorJS)",
+        "category": "Web Progressive App",
+        "image": "crimemap.png",
+        "url": "https://youtu.be/nqA5_3_78P8"
+      },
+      {
+        "title": "Signal Clone (React Native)",
+        "category": "Mobile Development",
+        "image": "signal.png",
+        "url": "https://expo.io/@ebukaa/signal"
+      },
+      {
+        "title": "Patient Medics (Swift)",
+        "category": "Mobile Development",
+        "image": "patient-medics.png",
+        "url": "https://youtu.be/yUnJJANwN38"
+      },
+      {
+        "title": "Netflix Clone (ReactJS)",
+        "category": "Web Development",
+        "image": "netflix.png",
+        "url": "https://netflix-ebukaa.vercel.app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Ebuka is a self-motivated and hard-working young person, he has a very good career development strategy and shows a lot of initiatives.",
+        "user": "Dr Hua-Liang Wei"
+      }
+    ]
+  }
+}
