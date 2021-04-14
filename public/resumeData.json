@@ -99,6 +99,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Netflix Clone (ReactJS)",
+        "category": "Web Development",
+        "image": "netflix.png",
+        "url": "https://netflix-ebukaa.vercel.app"
+      },
+      {
         "title": "ColorWheel (ReactJS + CapacitorJS)",
         "category": "Web Progressive App",
         "image": "colorwheel.png",
@@ -121,12 +127,6 @@
         "category": "Mobile Development",
         "image": "patient-medics.png",
         "url": "https://youtu.be/yUnJJANwN38"
-      },
-      {
-        "title": "Netflix Clone (ReactJS)",
-        "category": "Web Development",
-        "image": "netflix.png",
-        "url": "https://netflix-ebukaa.vercel.app"
       }
     ]
   },
