@@ -83,8 +83,12 @@
         "level": "50%"
       },
       {
+        "name": "NodeJs",
+        "level": "65%"
+      },
+      {
         "name": "Git",
-        "level": "70%"
+        "level": "88%"
       },
       {
         "name": "JavaScript",
