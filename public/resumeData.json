@@ -109,6 +109,12 @@
         "url": "https://netflix-ebukaa.vercel.app"
       },
       {
+        "title": "Google Clone (ReactJS)",
+        "category": "Web Development",
+        "image": "google.png",
+        "url": "https://google-ebukaa.vercel.app"
+      },
+      {
         "title": "ColorWheel (ReactJS + CapacitorJS)",
         "category": "Web Progressive App",
         "image": "colorwheel.png",
