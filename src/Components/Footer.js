@@ -23,7 +23,7 @@ const Footer = ({ data }) => {
           <ul className="copyright">
             <li>
               Made by{" "}
-              <a title="DecipherCode" href={data?.website}>
+              <a target="_blank" title="DecipherCode" href={data?.website} rel="noreferrer">
                 DecipherCode
               </a>
             </li>
